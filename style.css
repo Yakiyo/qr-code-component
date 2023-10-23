@@ -1,4 +1,5 @@
 body {
+    font-family: "Outfit", sans-serif;
     background-color: rgba(231, 228, 228, 0.966);
     display: flex;
     align-items: center;
@@ -32,6 +33,6 @@ img {
 #header {
     padding-top: 30px;
     font-weight: bold;
-    font-size: larger;
+    font-size: 20px;
     color: rgb(32, 32, 32);
 }
